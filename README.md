@@ -5,7 +5,7 @@ Cobot.Detect project, aiming to provide comprehensive monitoring for collaborati
 
 # select model
 
-| Model/Format           | YOLOv11n-seg | YOLOv8n-seg |            Note / Link                    |              link            |
+| Model/Format           | YOLOv11n-seg | YOLOv8n-seg |            Runtime                   |              link            |
 |------------------------|:------------:|:------------:|:-------------------------------:|:---------------------------|
 | **onnx**               | ✅ 31.7ms 133MB CPU304| ✅7.1ms 17MB NU337|   	ONNX Runtime | |
 | **tflite**             | ❌            | ❌                        |                                                           |
