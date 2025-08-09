@@ -2,11 +2,11 @@
 Cobot.Detect project, aiming to provide comprehensive monitoring for collaborative robot (cobot) work areas through an on-device privacy-centric visual AI solution.
 
 * * *
-# 
+# 🗂️ End-to-End Cobot Dataset Generation Workflow
 
 * * *
 
-# Model Compilation Test on Snapdragon X Elite
+# 🔬 Model Compilation Test on Snapdragon X Elite
 
 Table 1 shows the results of compiling “yolo-v[11,8]n.pt” with different target models for the Snapdragon X Elite CRD.
 
