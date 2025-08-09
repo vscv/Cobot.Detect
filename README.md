@@ -3,8 +3,10 @@ Cobot.Detect project, aiming to provide comprehensive monitoring for collaborati
 
 <!--
 ![Cobot.Detect workflow](assets/cobot.detect_workflow.jpg) -->
-
+<div align="center">
 <img src="assets/cobot.detect_workflow.jpg" alt="Cobot.Detect workflow" width="600"/>
+</div>
+
 
 ### Workflow Steps
 
