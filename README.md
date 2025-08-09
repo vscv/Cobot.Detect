@@ -74,4 +74,4 @@ Table 1 shows the results of compiling “yolo-v[11,8]n.pt” with different tar
 
 `QNN API/Backend/SDK needs to run within Ubuntu 20.04`  [• You have an Ubuntu 20.04 or WSL2 on Windows with an Ubuntu 20.04 development environment.](https://www.qualcomm.com/developer/software/neural-processing-sdk-for-ai)
 
-Based on the data in this table and the environmental constraints of the QNN API, choosing YOLOv8 together with precompiled_qnn_onnx may be the optimal solution.
+Based on the data in this table and the environmental constraints of the QNN API, choosing YOLOv8 together with precompiled_qnn_onnx may be the conservative but easy-to-implement choice. However, we will insist on using the newer v11 model for further challenges.
