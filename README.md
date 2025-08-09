@@ -35,6 +35,10 @@ Cobot.Detect project, aiming to provide comprehensive monitoring for collaborati
   </a>
 </div>
 
+- **Annotation Interface Overview**
+  
+  [Annotation UI](https://github.com/user-attachments/assets/1345436b-0d57-4b72-9e9d-fe161b5efe08)
+
 > 🚀 **Full Implementation Demo**  
 > This section references the [`End2End_demo`](https://github.com/vscv/NaiveSAM/tree/main/files/End2End_demo) from our in-house auto-annotation tool
 [@vscv/NaiveSAM](https://github.com/vscv/NaiveSAM) repository.  
