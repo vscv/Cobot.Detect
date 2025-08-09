@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/CD-logo-s-w.jpeg" alt="CD-logo"/>
+<img src="assets/CD-logo-s-w.jpeg" alt="CD-logo" width="300"/>
 </div>
 
 ---
