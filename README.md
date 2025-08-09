@@ -29,18 +29,16 @@ Cobot.Detect project, aiming to provide comprehensive monitoring for collaborati
 * * *
 # 🗂️ End-to-End Cobot Dataset Generation Workflow
 
-> 🚀 **Full Implementation Demo**  
-> This section references the [`End2End_demo`](https://github.com/vscv/NaiveSAM/tree/main/files/End2End_demo) from our in-house auto-annotation tool
-[@vscv/NaiveSAM](https://github.com/vscv/NaiveSAM) repository.  
-> Check out the source code and tutorial directly!
-
----
-
 <div align="center">
   <a href="https://github.com/vscv/NaiveSAM/tree/main/files/End2End_demo">
     <img src="https://img.shields.io/badge/GitHub-NaiveSAM-blue?logo=github&style=for-the-badge" alt="NaiveSAM Demo Link">
   </a>
 </div>
+
+> 🚀 **Full Implementation Demo**  
+> This section references the [`End2End_demo`](https://github.com/vscv/NaiveSAM/tree/main/files/End2End_demo) from our in-house auto-annotation tool
+[@vscv/NaiveSAM](https://github.com/vscv/NaiveSAM) repository.  
+> Check out the source code and tutorial directly!
 
 <!--
 ### ✨ About This Section
