@@ -28,10 +28,10 @@ Cobot.Detect project, aiming to provide comprehensive monitoring for collaborati
 
 * * *
 # 🗂️ End-to-End Cobot Dataset Generation Workflow
-## 🗂️ End-to-End Cobot Dataset Generation Workflow
 
 > 🚀 **Full Implementation Demo**  
-> This section references the [`End2End_demo`](https://github.com/vscv/NaiveSAM/tree/main/files/End2End_demo) from the [@vscv/NaiveSAM](https://github.com/vscv/NaiveSAM) repository.  
+> This section references the [`End2End_demo`](https://github.com/vscv/NaiveSAM/tree/main/files/End2End_demo) from our in-house auto-annotation tool
+[@vscv/NaiveSAM](https://github.com/vscv/NaiveSAM) repository.  
 > Check out the source code and tutorial directly!
 
 ---
@@ -42,6 +42,7 @@ Cobot.Detect project, aiming to provide comprehensive monitoring for collaborati
   </a>
 </div>
 
+<!--
 ### ✨ About This Section
 
 - All steps, sample codes, and workflow diagrams in this section are from [NaiveSAM/End2End_demo](https://github.com/vscv/NaiveSAM/tree/main/files/End2End_demo).
@@ -51,6 +52,9 @@ Cobot.Detect project, aiming to provide comprehensive monitoring for collaborati
 
 > 💡 **TIP:**  
 > To quickly copy, run, or customize this workflow, please check the `End2End_demo` directory in the [NaiveSAM repository](https://github.com/vscv/NaiveSAM).
+-->
+
+
 * * *
 
 # 🔬 Model Compilation Test on Snapdragon X Elite
