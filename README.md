@@ -1,6 +1,27 @@
 # Cobot.Detect
 Cobot.Detect project, aiming to provide comprehensive monitoring for collaborative robot (cobot) work areas through an on-device privacy-centric visual AI solution.
 
+<!--
+![Cobot.Detect workflow](assets/cobot.detect_workflow.jpg) -->
+
+<img src="assets/cobot.detect_workflow.jpg" alt="Cobot.Detect workflow" width="600"/>
+
+### Workflow Steps
+
+1. **Continual Training**  
+   Utilize both the COCO-Seg and Cobot datasets to perform continual training of the model.
+
+2. **Model Optimization**  
+   Optimize the trained model using [Qualcomm AI Hub](https://aihub.qualcomm.com/).
+
+3. **Device Deployment**  
+   Deploy the optimized model to devices running Windows and powered by Snapdragon processors.
+
+4. **On-Device Data Privacy**  
+   By keeping data on-device, Cobot.Detect seamlessly integrates with cobot applications, safeguarding trade secrets and the privacy of people captured in the monitored environment..
+
+   
+
 * * *
 # 🗂️ End-to-End Cobot Dataset Generation Workflow
 
