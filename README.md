@@ -85,9 +85,8 @@ Based on the data in this table and the environmental constraints of the QNN API
 -->
 For performance evaluation and specification selection, we conducted real-device tests across different configurations using the Qualcomm AI HUB. Based on the data in this table and the environmental constraints of the QNN API, choosing YOLOv8 together with precompiled_qnn_onnx may be the conservative but easy-to-implement choice. However, we will continue to challenge ourselves by insisting on using the newer v11 model to explore its potential benefits further.
 
-<sup>[1]</sup> ❌ FAILED   TargetRuntime.TFLITE is not a supported target for Snapdragon X Elite CRD.</small>
-
-<sup>[2]</sup> ❌ FAILED   Model compile failed due to an internal error.
+###### <sup>[1]</sup> ❌ FAILED   TargetRuntime.TFLITE is not a supported target for Snapdragon X Elite CRD.</small>
+###### <sup>[2]</sup> ❌ FAILED   Model compile failed due to an internal error.
 
 
 ---
