@@ -3,7 +3,10 @@ Cobot.Detect project, aiming to provide comprehensive monitoring for collaborati
 
 * * *
 
-# select model
+# Model Compilation Test on Snapdragon X Elite
+
+Table 1 shows the results of compiling “yolo-v[11,8]n.pt” with different target models for the Snapdragon X Elite CRD.
+
 
 | Model/Format           | YOLOv11n-seg | YOLOv8n-seg |            Runtime                   |              link            |
 |------------------------|:------------:|:------------:|:-------------------------------:|:---------------------------|
@@ -14,3 +17,5 @@ Cobot.Detect project, aiming to provide comprehensive monitoring for collaborati
 | **qnn_dlc**            | ✅ 5.4ms 5MB NPU415            | ✅5.0ms 20MB NPU326                 |  QNN API | [details](https://app.aihub.qualcomm.com/jobs/jg9yknvl5/) |
 
 `QNN API/Backend/SDK needs to run within Ubuntu 20.04`  [• You have an Ubuntu 20.04 or WSL2 on Windows with an Ubuntu 20.04 development environment.](https://www.qualcomm.com/developer/software/neural-processing-sdk-for-ai)
+
+Based on the data in this table and the environmental constraints of the QNN API, choosing YOLOv8 together with precompiled_qnn_onnx may be the optimal solution.
