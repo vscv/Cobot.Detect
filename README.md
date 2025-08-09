@@ -10,7 +10,7 @@ Cobot.Detect project, aiming to provide comprehensive monitoring for collaborati
 
 
 
-### Workflow Steps
+### 🏗️ Workflow Steps
 
 <!--
 ![Cobot.Detect workflow](assets/cobot.detect_workflow.jpg) -->
@@ -90,11 +90,11 @@ For performance evaluation and specification selection, we conducted real-device
 
 
 ---
-# BYOM
+# 📦 BYOM
 
 
 ---
-# Case study
+# 💻 Case study
 
 
 ---
