@@ -10,7 +10,7 @@ Cobot.Detect project, aiming to provide comprehensive monitoring for collaborati
 
 
 
-### 🏗️ Workflow Steps
+## 🏗️ Workflow
 
 <!--
 ![Cobot.Detect workflow](assets/cobot.detect_workflow.jpg) -->
