@@ -1,14 +1,16 @@
 # Cobot.Detect
 Cobot.Detect project, aiming to provide comprehensive monitoring for collaborative robot (cobot) work areas through an on-device privacy-centric visual AI solution.
 
+
+
+
+### Workflow Steps
+
 <!--
 ![Cobot.Detect workflow](assets/cobot.detect_workflow.jpg) -->
 <div align="center">
 <img src="assets/cobot.detect_workflow.jpg" alt="Cobot.Detect workflow" width="600"/>
 </div>
-
-
-### Workflow Steps
 
 1. **Continual Training**  
    Utilize both the COCO-Seg and Cobot datasets to perform continual training of the model.
