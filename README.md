@@ -35,7 +35,7 @@ Cobot.Detect project, aiming to provide comprehensive monitoring for collaborati
   </a>
 </div>
 
-- **Annotation Interface Overview**
+- **Auto Annotation Overview**
   
   [Annotation UI](https://github.com/user-attachments/assets/1345436b-0d57-4b72-9e9d-fe161b5efe08)
 
