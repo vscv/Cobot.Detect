@@ -90,8 +90,10 @@ For performance evaluation and specification selection, we conducted real-device
 
 
 ---
-# 📦 BYOM in [Qualcomm AI Hub](https://aihub.qualcomm.com/)
+# 📦 BYOM
+
 ### Upload CP model
+
 ### Compile
 ### Profile
 ### Inference
