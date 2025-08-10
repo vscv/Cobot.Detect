@@ -91,10 +91,17 @@ For performance evaluation and specification selection, we conducted real-device
 
 ---
 # 📦 BYOM
-
+### Upload CP model
+### Compile
+### Profile
+### Inference
+### Export the QNN model
+### QNN API C/C++ sample code
 
 ---
 # 💻 Practical Case: Cobot.Detect On Device
-
+### Windows AI PC?notebook?
+### video streams
+### show result on video wall
 
 ---
