@@ -94,7 +94,7 @@ For performance evaluation and specification selection, we conducted real-device
 
 
 ---
-# 💻 Case study
+# 💻 Practical Case: Cobot.Detect On Device
 
 
 ---
