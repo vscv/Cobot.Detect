@@ -107,15 +107,13 @@ For performance evaluation and specification selection, we conducted real-device
 
 - **Case_1:**
 
-  
-https://github.com/user-attachments/assets/741d9070-7792-4086-a212-8134b9f4c554
 
 
-https://github.com/user-attachments/assets/13c1b615-e289-401f-a7a1-f65b7b2b2857
+https://github.com/user-attachments/assets/e6b0f4fe-40a4-4719-87c8-3f08acd50ae9
 
+https://github.com/user-attachments/assets/239e5bd0-9be6-449a-88af-651d54c5e252
 
-
-https://github.com/user-attachments/assets/7805619d-bf6b-4fcd-b298-709322777f28
+https://github.com/user-attachments/assets/d325b611-2307-4402-94c2-ec0111afdd8f
 
 
 - **Case_2:**
@@ -124,6 +122,10 @@ https://github.com/user-attachments/assets/7805619d-bf6b-4fcd-b298-709322777f28
 
 
 ### Windows AI PC?notebook?
+
+
+
+
 ### video streams
 ### show result on video wall
 
