@@ -102,6 +102,27 @@ For performance evaluation and specification selection, we conducted real-device
 
 ---
 # 💻 Practical Case: Cobot.Detect On Device
+
+
+
+- **Case_1:**
+
+  
+https://github.com/user-attachments/assets/741d9070-7792-4086-a212-8134b9f4c554
+
+
+https://github.com/user-attachments/assets/13c1b615-e289-401f-a7a1-f65b7b2b2857
+
+
+
+https://github.com/user-attachments/assets/7805619d-bf6b-4fcd-b298-709322777f28
+
+
+- **Case_2:**
+
+
+
+
 ### Windows AI PC?notebook?
 ### video streams
 ### show result on video wall
