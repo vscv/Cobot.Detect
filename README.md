@@ -118,7 +118,11 @@ https://github.com/user-attachments/assets/d325b611-2307-4402-94c2-ec0111afdd8f
 
 
 - **Case_2:**
-FoxconnBuildsRoboticsforHealthcare_ycut
+
+https://github.com/user-attachments/assets/093d322c-b0cf-41b6-aa62-c2c091a60d75
+
+
+
 
 - **Case_3:**
 - **Case_4:**
