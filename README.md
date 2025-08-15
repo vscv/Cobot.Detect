@@ -103,6 +103,7 @@ For performance evaluation and specification selection, we conducted real-device
 ---
 # 💻 Practical Case: Cobot.Detect On Device
 
+`Based on our retrained YOLOv11n-Segmentation model`
 
 
 - **Case_1:**
