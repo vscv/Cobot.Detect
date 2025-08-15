@@ -119,19 +119,51 @@ https://github.com/user-attachments/assets/d325b611-2307-4402-94c2-ec0111afdd8f
 
 - **Case_2:**
 
+<!--
 https://github.com/user-attachments/assets/093d322c-b0cf-41b6-aa62-c2c091a60d75
+loop autoplay muted
+-->
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/093d322c-b0cf-41b6-aa62-c2c091a60d75" controls width="400" >
+    <!-- 如果瀏覽器不支援，則顯示此文字 -->
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 
 person_mosaic on-device
-
+<!--
 <div align="center">
-<img src="assets/FoxconnBuildsRoboticsforHealthcare_ycut.mp4_00015_mosic.jpeg" alt="Cobot.Detect workflow" width="500"/>
+<img src="assets/FoxconnBuildsRoboticsforHealthcare_ycut.mp4_00015_mask_red.jpeg" alt="Cobot.Detect workflow" width="400"/>
 </div>
 
 <div align="center">
-<img src="assets/FoxconnBuildsRoboticsforHealthcare_ycut.mp4_00039_mosaic.jpeg" alt="Cobot.Detect workflow" width="500"/>
+<img src="assets/FoxconnBuildsRoboticsforHealthcare_ycut.mp4_00039_mask_red.jpeg" alt="Cobot.Detect workflow" width="400"/>
 </div>
 
+
+<div align="center">
+<img src="assets/FoxconnBuildsRoboticsforHealthcare_ycut.mp4_00015_mosic.jpeg" alt="Cobot.Detect workflow" width="400"/>
+</div>
+
+<div align="center">
+<img src="assets/FoxconnBuildsRoboticsforHealthcare_ycut.mp4_00039_mosaic.jpeg" alt="Cobot.Detect workflow" width="400"/>
+</div>
+-->
+
+<table>
+  <tr>
+    <td><div align="center"><img src="assets/FoxconnBuildsRoboticsforHealthcare_ycut.mp4_00015_mask_red.jpeg" alt="Cobot.Detect workflow" width="400"/></div></td>
+    <td><div align="center"><img src="assets/FoxconnBuildsRoboticsforHealthcare_ycut.mp4_00039_mask_red.jpeg" alt="Cobot.Detect workflow" width="400"/></div></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><div align="center"><img src="assets/FoxconnBuildsRoboticsforHealthcare_ycut.mp4_00015_mosic.jpeg" alt="Cobot.Detect workflow" width="400"/></div></td>
+    <td><div align="center"><img src="assets/FoxconnBuildsRoboticsforHealthcare_ycut.mp4_00039_mosaic.jpeg" alt="Cobot.Detect workflow" width="400"/></div></td>
+  </tr>
+</table>
 
 
 - **Case_3:**
