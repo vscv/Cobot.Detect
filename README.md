@@ -118,12 +118,19 @@ https://github.com/user-attachments/assets/d325b611-2307-4402-94c2-ec0111afdd8f
 
 
 - **Case_2:**
-Block person
-
-
 
 https://github.com/user-attachments/assets/093d322c-b0cf-41b6-aa62-c2c091a60d75
 
+
+person_mosaic on-device
+
+<div align="center">
+<img src="assets/FoxconnBuildsRoboticsforHealthcare_ycut.mp4_00015_mosic.jpeg" alt="Cobot.Detect workflow" width="500"/>
+</div>
+
+<div align="center">
+<img src="assets/FoxconnBuildsRoboticsforHealthcare_ycut.mp4_00039_mosaic.jpeg" alt="Cobot.Detect workflow" width="500"/>
+</div>
 
 
 
