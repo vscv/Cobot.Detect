@@ -165,6 +165,21 @@ person_mosaic on-device
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td><div align="center"><img src="assets/FoxconnBuildsRoboticsforHealthcare_ycut.mp4_00015_mask-box-label.jpeg" alt="Cobot.Detect workflow" width="400"/></div></td>
+    <td><div align="center"><img src="assets/FoxconnBuildsRoboticsforHealthcare_ycut.mp4_00039_mask-box-label.jpeg" alt="Cobot.Detect workflow" width="400"/></div></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><div align="center"><img src="assets/FoxconnBuildsRoboticsforHealthcare_ycut.mp4_00015_mosaic-box-label.jpeg" alt="Cobot.Detect workflow" width="400"/></div></td>
+    <td><div align="center"><img src="assets/FoxconnBuildsRoboticsforHealthcare_ycut.mp4_00039_mosaic-box-label.jpeg" alt="Cobot.Detect workflow" width="400"/></div></td>
+  </tr>
+</table>
+
+
 
 - **Case_3:**
 - **Case_4:**
