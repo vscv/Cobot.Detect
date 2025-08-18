@@ -182,6 +182,10 @@ person_mosaic on-device
 
 
 - **Case_3:**
+  Using VLM for `visual question answering`
+
+  
+ 
 - **Case_4:**
 - **Case_5:**
 
