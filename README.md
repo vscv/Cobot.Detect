@@ -95,9 +95,28 @@ For performance evaluation and specification selection, we conducted real-device
 ### Upload CP model
 
 ### Compile
+
+<div align="left">
+<img src="assets/Compile Job Results.jpg" width="400"/>
+</div>
+
+
 ### Profile
+
+<div align="left">
+<img src="assets/Profile Job Results.jpg" width="400"/>
+</div>
+
+
 ### Inference
+<div align="left">
+<img src="assets/Inference Job Results.jpg" width="400"/>
+</div>
+
+
 ### Export the QNN model
+
+
 ### QNN API C/C++ sample code
 
 ---
