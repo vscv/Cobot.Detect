@@ -184,7 +184,22 @@ person_mosaic on-device
 - **Case_3:**
   Using VLM for `visual question answering`
 
-  
+<div align="center">
+<img src="assets/cobot_VQA_001.jpg" width="400"/>
+</div>
+
+<div align="center">
+<img src="assets/cobot_VQA_002.jpg" width="400"/>
+</div>
+
+<div align="center">
+<img src="assets/cobot_VQA_003.jpg" width="400"/>
+</div>
+
+<div align="center">
+<img src="assets/cobot_VQA_004.jpg" width="400"/>
+</div>
+
  
 - **Case_4:**
 - **Case_5:**
