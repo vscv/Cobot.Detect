@@ -115,9 +115,14 @@ For performance evaluation and specification selection, we conducted real-device
 
 
 ### Export the QNN model
+QNN model format: Deep Learning Containers (DLCs)
 
+<div align="left">
+<img src="assets/Export the QNN model.jpg" width="400"/>
+</div>
 
 ### QNN API C/C++ sample code
+We are trying to find out ...
 
 ---
 # 💻 Practical Case: Cobot.Detect On Device
