@@ -132,7 +132,7 @@ qairt version: 2.37.1.250807
 Install doc: go to qairt/2.37.1.250807/docs/QNN/general/setup.html
 
 <div align="left">
-<img src="[assets/Profile Job Results.jpg](https://github.com/user-attachments/assets/47e755e4-a604-4d90-832d-70089b94d7d0)" width="400"/>
+<img src="https://github.com/user-attachments/assets/47e755e4-a604-4d90-832d-70089b94d7d0" width="350"/>
 </div>
 
 Then follow the `Windows Setup` to get the QAIRT in your Windows host.
@@ -142,6 +142,15 @@ Then follow the `Windows Setup` to get the QAIRT in your Windows host.
 
 
 We are trying to find out ...
+
+
+
+
+
+
+
+
+
 
 ---
 # 💻 Practical Case: Cobot.Detect On Device
