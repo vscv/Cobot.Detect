@@ -129,7 +129,7 @@ download site: https://qpm.qualcomm.com/#/main/tools/details/Qualcomm_AI_Runtime
 
 qairt version: 2.37.1.250807
 
-Install doc: go to qairt/2.37.1.250807/docs/QNN/general/setup.html
+Install doc: go to qairt/2.37.1.250807/docs/QNN/general/setup.html or [web](https://docs.qualcomm.com/bundle/publicresource/topics/80-63442-50/setup.html) .
 
 <div align="left">
 <img src="https://github.com/user-attachments/assets/47e755e4-a604-4d90-832d-70089b94d7d0" width="350"/>
