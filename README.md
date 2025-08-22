@@ -137,6 +137,7 @@ Install doc: go to qairt/2.37.1.250807/docs/QNN/general/setup.html or [web](http
 
 Then follow the `Windows Setup` to get the QAIRT in your Windows host.
 
+Note: you may need to update/install `Visual Studio Installer`, `Visual Studio`, `CMake`, `clang-cl.exe`, etc.
 
 
 
