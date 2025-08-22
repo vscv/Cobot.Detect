@@ -123,7 +123,7 @@ QNN model format: Deep Learning Containers (DLCs)
 
 
 ---
-# QAIRT SDK
+# Windows OS + QAIRT SDK
 
 download site: https://qpm.qualcomm.com/#/main/tools/details/Qualcomm_AI_Runtime_Community
 
