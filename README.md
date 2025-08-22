@@ -121,7 +121,26 @@ QNN model format: Deep Learning Containers (DLCs)
 <img src="assets/Export the QNN model.jpg" width="400"/>
 </div>
 
-### QNN API C/C++ sample code
+
+---
+# QAIRT SDK
+
+download site: https://qpm.qualcomm.com/#/main/tools/details/Qualcomm_AI_Runtime_Community
+
+qairt version: 2.37.1.250807
+
+Install doc: go to qairt/2.37.1.250807/docs/QNN/general/setup.html
+
+<div align="left">
+<img src="[assets/Profile Job Results.jpg](https://github.com/user-attachments/assets/47e755e4-a604-4d90-832d-70089b94d7d0)" width="400"/>
+</div>
+
+Then follow the `Windows Setup` to get the QAIRT in your Windows host.
+
+
+
+
+
 We are trying to find out ...
 
 ---
